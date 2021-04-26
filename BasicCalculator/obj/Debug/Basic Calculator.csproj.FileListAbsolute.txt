@@ -1,0 +1,10 @@
+G:\Programacion\C#\Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+G:\Programacion\C#\Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+G:\Programacion\C#\Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojAssemblyReference.cache
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.CoreCompileInputs.cache
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+G:\Programacion\C#\Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
