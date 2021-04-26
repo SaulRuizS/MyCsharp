@@ -1,0 +1,10 @@
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\bin\Debug\Comunicacion_Arduino-WinForms.exe.config
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\bin\Debug\Comunicacion_Arduino-WinForms.exe
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\bin\Debug\Comunicacion_Arduino-WinForms.pdb
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino-WinForms.csprojAssemblyReference.cache
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino_WinForms.Form1.resources
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino_WinForms.Properties.Resources.resources
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino-WinForms.csproj.GenerateResource.cache
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino-WinForms.csproj.CoreCompileInputs.cache
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino-WinForms.exe
+G:\Documentos\Programacion\C#\Comunicacion_Arduino-WinForms\obj\Debug\Comunicacion_Arduino-WinForms.pdb

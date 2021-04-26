@@ -1,0 +1,10 @@
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\bin\Debug\SpaceFighter.exe.config
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\bin\Debug\SpaceFighter.exe
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\bin\Debug\SpaceFighter.pdb
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.csprojAssemblyReference.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.Properties.Resources.resources
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.csproj.GenerateResource.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.csproj.CoreCompileInputs.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.exe
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.pdb
+C:\Users\sfrs_\OneDrive\Escritorio\Proyecto VS-Arduino\SpaceFighter\obj\Debug\SpaceFighter.Window_Background.resources

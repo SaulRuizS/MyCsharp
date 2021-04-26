@@ -1,0 +1,20 @@
+G:\Documentos\Programacion\C#\MonitorDeVariables\bin\Debug\MonitorDeVariables.exe.config
+G:\Documentos\Programacion\C#\MonitorDeVariables\bin\Debug\MonitorDeVariables.exe
+G:\Documentos\Programacion\C#\MonitorDeVariables\bin\Debug\MonitorDeVariables.pdb
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.csprojAssemblyReference.cache
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.ventana.resources
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.Properties.Resources.resources
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.csproj.GenerateResource.cache
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.csproj.CoreCompileInputs.cache
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.exe
+G:\Documentos\Programacion\C#\MonitorDeVariables\obj\Debug\MonitorDeVariables.pdb
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\bin\Debug\MonitorDeVariables.exe.config
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\bin\Debug\MonitorDeVariables.exe
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\bin\Debug\MonitorDeVariables.pdb
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.csprojAssemblyReference.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.ventana.resources
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.Properties.Resources.resources
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.csproj.GenerateResource.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.csproj.CoreCompileInputs.cache
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.exe
+C:\Users\sfrs_\OneDrive\Escritorio\Monitor de variables\MonitorDeVariables\obj\Debug\MonitorDeVariables.pdb
