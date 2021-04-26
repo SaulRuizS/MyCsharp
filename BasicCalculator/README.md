@@ -1,2 +1,2 @@
 # Basic Calculator
-Basic calculator programmed in C# 
+A really basic calculator programmed in C#.
